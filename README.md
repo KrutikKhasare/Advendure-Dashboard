@@ -7,10 +7,11 @@ Adventure Works Sales Dashoboard Using Excel
 
 Tools:- Excel (Power Query, DAX, M-language, Various Charts, Power Pivot, Pivot Tables)
 
-Dashboard Image
+Dashboard Time Analysis Image
 ![](https://github.com/KrutikKhasare/Advendure-Dashboard/blob/main/Time%20Analysis%201st%20Page%20Dashboard.png)
 
-![](
+Dashboard Detail Image
+![](https://github.com/KrutikKhasare/Advendure-Dashboard/blob/main/Detail%20Dashboard.png)
 
 
 
