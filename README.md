@@ -46,3 +46,5 @@ GitHUB Link -
 🔍 Excel Functions: Harness the full potential of Excel functions to add logical insights to your dashboards.
 
 📊 Visual Storytelling: Create captivating visuals that make your data-driven story crystal clear.
+
+LinkedIn Profile - Krutik Khasare       https://www.linkedin.com/in/krutikkhasare200
