@@ -7,8 +7,10 @@ Adventure Works Sales Dashoboard Using Excel
 
 Tools:- Excel (Power Query, DAX, M-language, Various Charts, Power Pivot, Pivot Tables)
 
-DAshboard
-![]("C:\Users\KRUTIK\Desktop\Project\Adventure work Excel Dashboard\Images\Time Analysis 1st Page Dashboard.png")
+Dashboard Image
+![](https://github.com/KrutikKhasare/Advendure-Dashboard/blob/main/Time%20Analysis%201st%20Page%20Dashboard.png)
+
+![](
 
 
 
